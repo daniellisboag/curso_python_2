@@ -1,6 +1,6 @@
-# Python 3 - Mundo 2 💻
+# Python 3 - Parte 2 💻
 
-Este repositório contém os exercícios e desafios realizados durante os estudos do **Curso de Python do professor Gustavo Guanabara (Curso em Vídeo)**, especificamente o **Mundo 2**, que aprofunda conceitos de Python e introduz novas ferramentas.
+Este repositório contém os exercícios e desafios realizados durante os estudos do **Curso de Python (Curso em Vídeo)**.
 
 ## 📚 Conteúdo Abordado
 
@@ -20,22 +20,11 @@ Este repositório contém os exercícios e desafios realizados durante os estudo
 - Python
 - Editor: VS Code
 
-## ✅ Status do Projeto
-
-✔️ Mundo 1 concluído — Todos os exercícios do Mundo 1 foram finalizados com sucesso.  
-✔️ Mundo 2 concluído — Todos os exercícios do Mundo 2 foram finalizados com sucesso.  
-🔜 Mundo 3 — Serão realizados em breve.
-
-## 📌 Próximos Passos
-
-- Realizar os exercícios do Mundo 3.
-- Aplicar os conceitos do Mundo 2 e 3 em mini-projetos próprios.
-
 ## 🙋‍♂️ Autor
 
 Feito com dedicação por **Daniel Lisboa Gonçalves**  
 📧 Contato: [daniellisboag0@gmail.com](mailto:daniellisboag0@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/daniellisboag0/)
+🔗 [LinkedIn](www.linkedin.com/in/daniel-lisboag)
 
 ---
 
