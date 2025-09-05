@@ -24,7 +24,7 @@ Este repositório contém os exercícios e desafios realizados durante os estudo
 
 Feito com dedicação por **Daniel Lisboa Gonçalves**  
 📧 Contato: [daniellisboag0@gmail.com](mailto:daniellisboag0@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/daniel-lisboag)
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-lisboag)
 
 ---
 
